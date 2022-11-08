@@ -1,6 +1,8 @@
-# Google Camera 7.3 For Violet
+# Google Camera 8.1 by BSG
 
-Reworked Google Camera 7.3 For Violet
+Source - https://www.celsoazevedo.com/files/android/google-camera/dev-bsg/f/dl88/
+
+Variant - MGC_8.1.101_A9_GV2b_MGC.apk (com.android.mgc)
 
 ## How To Build
 
