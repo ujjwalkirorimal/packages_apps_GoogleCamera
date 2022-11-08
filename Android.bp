@@ -1,0 +1,15 @@
+soong_namespace {
+}
+
+android_app_import {
+    name: "GoogleCamera",
+    owner: "google",
+    apk: "GoogleCamera.apk",
+    presigned: true,
+    dex_preopt: {
+        enabled: true,
+    },
+    privileged: true,
+    product_specific: true,
+    overrides: ["Snap","Camera2"],
+}
